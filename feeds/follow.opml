@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>AI News Radar - Wang Heng Feeds</title>
+  </head>
+  <body>
+    <outline text="Paul Graham" type="rss" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss"/>
+    <outline text="Ben Evans" type="rss" xmlUrl="https://ben-evans.com/benedictevans/feed"/>
+    <outline text="Stratechery" type="rss" xmlUrl="https://stratechery.com/feed/"/>
+    <outline text="Andrew Ng" type="rss" xmlUrl="https://www.deeplearning.ai/the-batch/feed/"/>
+    <outline text="Andrej Karpathy" type="rss" xmlUrl="https://karpathy.github.io/feed.xml"/>
+    <outline text="OpenAI Blog" type="rss" xmlUrl="https://openai.com/blog/rss.xml"/>
+    <outline text="Anthropic Blog" type="rss" xmlUrl="https://www.anthropic.com/news/rss"/>
+    <outline text="Google AI Blog" type="rss" xmlUrl="https://blog.google/technology/ai/rss/"/>
+    <outline text="Meta AI Blog" type="rss" xmlUrl="https://ai.meta.com/blog/feed/"/>
+    <outline text="DeepMind Blog" type="rss" xmlUrl="https://deepmind.com/blog/feed/"/>
+    <outline text="Hacker News" type="rss" xmlUrl="https://hnrss.org/frontpage"/>
+    <outline text="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/"/>
+    <outline text="The Verge" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml"/>
+    <outline text="Wired" type="rss" xmlUrl="https://www.wired.com/feed/rss"/>
+    <outline text="Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/index"/>
+    <outline text="MIT Tech Review" type="rss" xmlUrl="https://www.technologyreview.com/feed/"/>
+    <outline text="VentureBeat AI" type="rss" xmlUrl="https://venturebeat.com/category/artificial-intelligence/feed/"/>
+    <outline text="Bloomberg Tech" type="rss" xmlUrl="https://www.bloomberg.com/technology/feed"/>
+    <outline text="WSJ Tech" type="rss" xmlUrl="https://www.wsj.com/xml/rss/3_7455.xml"/>
+    <outline text="FT Tech" type="rss" xmlUrl="https://www.ft.com/technology?format=rss"/>
+    <outline text="Reuters Tech" type="rss" xmlUrl="https://www.reutersagency.com/feed/?taxonomy=best-topics&amp;post_type=best"/>
+    <outline text="Foreign Affairs" type="rss" xmlUrl="https://www.foreignaffairs.com/rss.xml"/>
+    <outline text="Foreign Policy" type="rss" xmlUrl="https://foreignpolicy.com/feed/"/>
+    <outline text="The Economist" type="rss" xmlUrl="https://www.economist.com/rss"/>
+    <outline text="War on the Rocks" type="rss" xmlUrl="https://warontherocks.com/feed/"/>
+    <outline text="The Rundown AI" type="rss" xmlUrl="https://rundown.ai/rss"/>
+    <outline text="TLDR AI" type="rss" xmlUrl="https://tldr.tech/ai/rss"/>
+    <outline text="Import AI" type="rss" xmlUrl="https://importai.substack.com/feed"/>
+    <outline text="晚点LatePost" type="rss" xmlUrl="https://latepost.com/feed"/>
+    <outline text="机器之心" type="rss" xmlUrl="https://www.jiqizhixin.com/rss"/>
+    <outline text="量子位" type="rss" xmlUrl="https://www.qbitai.com/feed"/>
+    <outline text="a16z" type="rss" xmlUrl="https://a16z.com/feed/"/>
+    <outline text="Sequoia" type="rss" xmlUrl="https://www.sequoiacap.com/feed/"/>
+    <outline text="Y Combinator" type="rss" xmlUrl="https://www.ycombinator.com/blog/feed"/>
+  </body>
+</opml>
